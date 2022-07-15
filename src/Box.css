@@ -1,0 +1,19 @@
+.drum-pad{
+    border: 5px solid black;
+    border-radius: 10px;
+    width: 60px;
+    height: 60px;
+    margin: 10px;
+    background-color: gray;
+    text-align: center;
+    font-size: 50px;
+}
+.drum-pad:hover{
+    border: 5px solid green;
+    background-color: black;
+    color: white;
+}
+img{
+    max-width: 70%;
+    margin-top: 20px;
+}
